@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ff820955637e0313",
+        "id": "6c17823d003880e3",
         "type": "tabs",
         "children": [
           {
-            "id": "1682fea8d222f00f",
+            "id": "c889d85a0526b6ec",
             "type": "leaf",
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
+                "aFile": "Reports/Operationalizing Data Governance.md",
+                "bFile": "Reports/Operationalizing Data Governance.md",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: workspace.json"
+              "title": "Diff: Operationalizing Data Governance"
             }
           }
         ]
@@ -181,10 +181,11 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1682fea8d222f00f",
+  "active": "c889d85a0526b6ec",
   "lastOpenFiles": [
-    "Tasks/Task.md",
+    "Reports/Operationalizing Data Governance.md",
     "README.md",
+    "Tasks/Task.md",
     "Untitled.canvas",
     "Untitled Kanban 2.md",
     "Templates/Untitled.md",
