@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "f3389428f4719c03",
+        "id": "ff820955637e0313",
         "type": "tabs",
         "children": [
           {
-            "id": "295479bbc87a5d92",
+            "id": "1682fea8d222f00f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-03-20.md",
+                "file": "Tasks/Task.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-20"
+              "title": "Task"
+            }
+          },
+          {
+            "id": "f450d7dd13f4cbea",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +59,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "File explorer"
             }
           },
           {
@@ -170,21 +185,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
+      "switcher:เปิด quick switcher": false,
+      "graph:เปิดมุมมองกราฟ": false,
+      "daily-notes:เปิดโน้ตของวันนี้": false,
+      "templates:แทรกเทมเพลต": false,
+      "command-palette:เปิดกระดานคำสั่ง": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "9101d49339546078",
+  "active": "f450d7dd13f4cbea",
   "lastOpenFiles": [
+    "Tasks/Task.md",
     "README.md",
+    "Untitled.canvas",
+    "Untitled Kanban 2.md",
+    "Templates/Untitled.md",
     "2025-03-20.md",
-    "Untitled.canvas"
+    "Reports/มนุษย์เป็นสัตว์สังคม (แค่บางวันก็พอ!).md",
+    "Reports/มนุษย์เป็นสัตว์สังคม (แค่บางวันก็พอ!).md",
+    "Tasks/Untitled.md",
+    "Reports/book5.md",
+    "Reports/book4.md",
+    "Reports/book3.md",
+    "Reports/book2.md"
   ]
 }
