@@ -10,7 +10,7 @@ tags:
 ## to do
 
 - [ ] [[book2]] สรุปหนังสือของอาม
-- [ ] [[book3]] สรุปหนังสือของมิว
+- [ ] [[Operationalizing Data Governance]] สรุปหนังสือของมิว
 - [ ] [[book4]] สรุปหนังสือของบิ๊ก
 - [ ] [[book5]] สรุปหนังสือของแพม
 
@@ -32,6 +32,6 @@ tags:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"tag-sort":[{"tag":"#workflow"},{"tag":"#process"},{"tag":"#git"},{"tag":"#interview"},{"tag":"#collab"}]}
 ```
 %%
