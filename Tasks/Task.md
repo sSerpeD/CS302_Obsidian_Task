@@ -1,17 +1,20 @@
 ---
+
 kanban-plugin: board
 tags:
   - workflow
   - library
+
 ---
 
 ## to do
 
 - [ ] [[book1]] สรุปหนังสือของนิว
 - [ ] [[book2]] สรุปหนังสือของอาม
-- [ ] [[book3]] สรุปหนังสือของมิว
+- [ ] [[Operationalizing Data Governance]] สรุปหนังสือของมิว
 - [ ] [[book4]] สรุปหนังสือของบิ๊ก
 - [ ] [[book5]] สรุปหนังสือของแพม
+
 
 ## in progress
 
@@ -29,6 +32,6 @@ tags:
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false],"tag-sort":[{"tag":"#workflow"},{"tag":"#process"},{"tag":"#git"},{"tag":"#interview"},{"tag":"#collab"}]}
 ```
 %%
