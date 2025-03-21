@@ -11,21 +11,14 @@
             "id": "92a0a44570c9549e",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Tasks/Task.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "Reports/2025-03-21_library-summary.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Task"
+              "icon": "lucide-file",
+              "title": "2025-03-21_library-summary"
             }
           }
         ]
@@ -190,18 +183,19 @@
   },
   "active": "92a0a44570c9549e",
   "lastOpenFiles": [
+    "Reports/เหนื่อยไหม กอดหัวใจตัวเองหรือยัง.md",
     "Reports/มนุษย์เป็นสัตว์สังคม (แค่บางวันก็พอ!).md",
     "Reports/จิตวิทยา รู้ใจคนจากคำพูดติดปาก.md",
     "Reports/Operationalizing Data Governance.md",
     "Reports/Graphic Design PrinciplesUntitled.md",
-    "Reports/เหนื่อยไหม กอดหัวใจตัวเองหรือยัง.md",
+    "Reports/2025-03-21_library-summary.md",
+    "Templates/Untitled.md",
     "Tasks/Task.md",
     "Reports/เหนื่อยไหม กอดหัวเจตัวเองหรือยัง.md",
     "Untitled Kanban.md",
     "Reports/book4.md",
     "README.md",
     "Untitled.canvas",
-    "Templates/Untitled.md",
     "Untitled Kanban 2.md",
     "2025-03-20.md",
     "Tasks/Untitled.md",
