@@ -9,8 +9,7 @@ tags:
 
 ## to do
 
-- [ ] [[book2]] สรุปหนังสือของอาม
-- [ ] [[Operationalizing Data Governance]] สรุปหนังสือของมิว
+- [ ] [[จิตวิทยา รู้ใจคนจากคำพูดติดปาก]] สรุปหนังสือของอาม
 - [ ] [[book4]] สรุปหนังสือของบิ๊ก
 
 
@@ -26,6 +25,7 @@ tags:
 
 ## done
 
+- [ ] [[Operationalizing Data Governance]] สรุปหนังสือของมิว
 
 
 
