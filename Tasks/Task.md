@@ -10,7 +10,6 @@ tags:
 ## to do
 
 - [ ] [[book2]] สรุปหนังสือของอาม
-- [ ] [[Operationalizing Data Governance]] สรุปหนังสือของมิว
 - [ ] [[book4]] สรุปหนังสือของบิ๊ก
 - [ ] [[book5]] สรุปหนังสือของแพม
 
@@ -26,6 +25,7 @@ tags:
 
 ## done
 
+- [ ] [[Operationalizing Data Governance]] สรุปหนังสือของมิว
 
 
 
