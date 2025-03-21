@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6c17823d003880e3",
+        "id": "a4f83e98d219e86a",
         "type": "tabs",
         "children": [
           {
-            "id": "c889d85a0526b6ec",
+            "id": "92a0a44570c9549e",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Reports/Operationalizing Data Governance.md",
-                "bFile": "Reports/Operationalizing Data Governance.md",
-                "aRef": ""
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Operationalizing Data Governance"
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "File explorer"
+              "title": "Files"
             }
           },
           {
@@ -170,32 +170,31 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:เปิด quick switcher": false,
-      "graph:เปิดมุมมองกราฟ": false,
-      "daily-notes:เปิดโน้ตของวันนี้": false,
-      "templates:แทรกเทมเพลต": false,
-      "command-palette:เปิดกระดานคำสั่ง": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "canvas:Create new canvas": false,
-      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c889d85a0526b6ec",
+  "active": "92a0a44570c9549e",
   "lastOpenFiles": [
-    "Reports/Operationalizing Data Governance.md",
-    "README.md",
-    "Tasks/Task.md",
     "Untitled.canvas",
-    "Untitled Kanban 2.md",
+    "Tasks/Task.md",
     "Templates/Untitled.md",
+    "Reports/Operationalizing Data Governance.md",
+    "Reports/มนุษย์เป็นสัตว์สังคม (แค่บางวันก็พอ!).md",
+    "Reports/book2.md",
+    "README.md",
+    "Untitled Kanban 2.md",
     "2025-03-20.md",
-    "Reports/มนุษย์เป็นสัตว์สังคม (แค่บางวันก็พอ!).md",
-    "Reports/มนุษย์เป็นสัตว์สังคม (แค่บางวันก็พอ!).md",
     "Tasks/Untitled.md",
     "Reports/book5.md",
     "Reports/book4.md",
-    "Reports/book3.md",
-    "Reports/book2.md"
+    "Reports/book3.md"
   ]
 }
