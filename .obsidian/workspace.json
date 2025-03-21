@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reports/จิตวิทยา รู้ใจคนจากคำพูดติดปาก.md",
+                "file": "Reports/Operationalizing Data Governance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "จิตวิทยา รู้ใจคนจากคำพูดติดปาก"
+              "title": "Operationalizing Data Governance"
             }
           }
         ]
@@ -183,11 +183,11 @@
   },
   "active": "92a0a44570c9549e",
   "lastOpenFiles": [
-    "Reports/Operationalizing Data Governance.md",
     "Reports/จิตวิทยา รู้ใจคนจากคำพูดติดปาก.md",
     "Reports/มนุษย์เป็นสัตว์สังคม (แค่บางวันก็พอ!).md",
-    "Tasks/Task.md",
+    "Reports/Operationalizing Data Governance.md",
     "README.md",
+    "Tasks/Task.md",
     "Untitled.canvas",
     "Templates/Untitled.md",
     "Untitled Kanban 2.md",
